@@ -1,0 +1,37 @@
+body {
+background-color: white;
+ background-image: url("https://images.pexels.com/photos/55787/pexels-photo-55787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+}
+h1 { 
+font-size:100px;
+background-color: blue;
+left: 850px;
+width: 70px;
+position: relative;
+}
+p {
+	font-size: 40px;
+	background-color: green;
+	
+	height: 350px;
+	width: 350px;
+	left: 500px;
+	text-align: center;
+	top: 50px;
+	position: relative;
+}
+table{
+	background-color: WHITE;
+	font-size: 30PX;
+	left: 1000px;
+	text-align: center;
+	top: -300px;
+	position: relative;
+	width: 300;
+
+}
+h2{
+	background-color: white;
+}
